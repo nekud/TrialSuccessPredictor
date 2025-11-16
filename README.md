@@ -15,8 +15,8 @@ pip3 install streamlit pandas numpy scikit-learn
 Installation and Usage
 Clone the repository (if hosted on GitHub) or simply create a local folder.
 Create the necessary files in your project directory:
-app.py: The main Python application file (copy the final code from the previous response).
-trial_data_large.csv: A sample CSV file for testing (copy the sample data provided previously).
+trial_success_predictor.py: The main Python application file (copy the final code from the previous response).
+trial_data.csv: A sample CSV file for testing (copy the sample data provided previously).
 requirements.txt: A file listing the dependencies for deployment (see "Deployment" section).
 Run the application from your terminal using streamlit:
 
@@ -29,8 +29,8 @@ Open your browser to the local URL provided by Streamlit (usually http://localho
 The project consists of three main files:
 
 File Name	                        Description
-trial_success_predictor.py	        The main Streamlit web application script. Contains UI logic, model training, and prediction functionality.
-trial_data.csv	                    A sample dataset containing historical clinical trial data used for demonstration.
+trial_success_predictor.py	      The main Streamlit web application script. Contains UI logic, model training, and prediction functionality.
+trial_data.csv	                  A sample dataset containing historical clinical trial data used for demonstration.
 requirements.txt	                Lists Python dependencies required for cloud deployment (e.g., Streamlit Cloud).
 
 ✨ Features
