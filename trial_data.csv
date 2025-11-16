@@ -1,0 +1,31 @@
+Trial ID,Disease,Phase,Inclusion Criteria 1,Inclusion Criteria 2,Status (Success/Fail)
+NCT001,Cancer,II,Age > 18,Biopsy Confirmed,Success
+NCT002,Diabetes,III,eGFR > 60,No history of ketoacidosis,Fail
+NCT003,Alzheimers,I,MMSE Score > 20,MRI Results Normal,Success
+NCT004,Cancer,III,Age > 18,No prior chemo,Success
+NCT005,Diabetes,II,Age > 40,HbA1c > 7,Fail
+NCT006,Cancer,I,Age < 60,Biopsy Confirmed,Fail
+NCT007,Alzheimers,II,MMSE Score < 15,Family history positive,Fail
+NCT008,Diabetes,III,eGFR < 50,History of ketoacidosis,Success
+NCT009,Cancer,II,Age > 18,Prior chemo allowed,Success
+NCT010,Alzheimers,I,Age > 50,MRI Results Normal,Success
+NCT011,Cancer,IV,Age > 18,Prior chemo allowed,Success
+NCT012,Diabetes,III,eGFR > 60,History of ketoacidosis,Success
+NCT013,Alzheimers,II,MMSE Score > 20,Family history positive,Success
+NCT014,Cancer,II,Age < 60,No prior chemo,Fail
+NCT015,Diabetes,II,Age > 40,No history of ketoacidosis,Success
+NCT016,Cancer,I,Age > 18,Biopsy Confirmed,Success
+NCT017,Alzheimers,III,MMSE Score < 15,MRI Results Abnormal,Fail
+NCT018,Diabetes,IV,eGFR > 60,HbA1c > 7,Fail
+NCT019,Cancer,III,Age > 18,Prior chemo allowed,Success
+NCT020,Alzheimers,I,Age > 50,Family history positive,Success
+NCT021,Cancer,II,Age < 18,Biopsy Confirmed,Fail
+NCT022,Diabetes,III,eGFR < 60,No history of ketoacidosis,Fail
+NCT023,Alzheimers,II,MMSE Score > 20,MRI Results Abnormal,Fail
+NCT024,Cancer,IV,Age > 60,No prior chemo,Success
+NCT025,Diabetes,II,Age < 40,HbA1c > 7,Success
+NCT026,Cancer,I,Age > 18,No history of cancer,Success
+NCT027,Alzheimers,III,MMSE Score < 15,Family history negative,Fail
+NCT028,Diabetes,IV,eGFR > 60,History of ketoacidosis,Success
+NCT029,Cancer,III,Age < 18,Prior chemo allowed,Fail
+NCT030,Alzheimers,I,Age < 50,MRI Results Normal,Success
